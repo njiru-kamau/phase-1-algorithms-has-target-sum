@@ -32,3 +32,12 @@ if (require.main === module) {
 }
 
 module.exports = hasTargetSum;
+
+
+
+
+/* an array of integers */
+var arrayOfIntegers = [1, 2, 3, 4, 5];
+/* a target integer */
+var targetInteger = 7;
+/* The function should return true if any pair of numbers in the array adds up to the target number. */
